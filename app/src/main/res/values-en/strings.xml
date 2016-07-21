@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Calculator</string>
+    <string name="op1">Operator 1:</string>
+    <string name="op2">Operator 2:</string>
+</resources>
